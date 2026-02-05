@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/avinash-website/static/css/main.98c05077.css",
-    "main.js": "/avinash-website/static/js/main.d87bba83.js",
+    "main.js": "/avinash-website/static/js/main.7aaf4f09.js",
     "static/media/portfolio-2new.png": "/avinash-website/static/media/portfolio-2new.e4972871cc6a5ad9dab8.png",
     "static/media/portfolio-5new.png": "/avinash-website/static/media/portfolio-5new.6d01bd0fcff60cf5c6db.png",
     "static/media/portfolio-4new.png": "/avinash-website/static/media/portfolio-4new.293c7ccac071da32480b.png",
@@ -14,10 +14,10 @@
     "static/media/instagram.png": "/avinash-website/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/avinash-website/index.html",
     "main.98c05077.css.map": "/avinash-website/static/css/main.98c05077.css.map",
-    "main.d87bba83.js.map": "/avinash-website/static/js/main.d87bba83.js.map"
+    "main.7aaf4f09.js.map": "/avinash-website/static/js/main.7aaf4f09.js.map"
   },
   "entrypoints": [
     "static/css/main.98c05077.css",
-    "static/js/main.d87bba83.js"
+    "static/js/main.7aaf4f09.js"
   ]
 }
