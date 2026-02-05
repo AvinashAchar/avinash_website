@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+
 
 
 
@@ -10,7 +10,6 @@ import Works from "./components/Works/works";
 import Contact from "./components/Contact/contact";
 import Footer from "./components/Footer/footer";
 function App() {
-  const [loading, setLoading] = useState(false);
   return (
     <div className="App">
         <Navbar/>
